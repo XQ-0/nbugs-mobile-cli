@@ -1,6 +1,6 @@
 {
   "name": "nbugs-mobile-cli",
-  "version": "0.9.5",
+  "version": "0.0.0",
   "description": "Creates a UmiJS application using the command line.",
   "bin": {
     "nbugs-mobile-cli": "cli.js"
